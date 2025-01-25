@@ -3,8 +3,8 @@
 SpeakSQL is an innovative app designed to bridge the gap between natural language and database queries. With this app, users can extract data by converting English sentences into SQL queries, making data manipulation and retrieval more intuitive and accessible.
 Not only does this project simplify the process of querying databases, but it also makes it more user-friendly for those unfamiliar with SQL.
 
-Try the project : [ https://lnkd.in/ecJxqShg
-](https://textsql-analysis.streamlit.app/)
+Try the project : [[ https://lnkd.in/ecJxqShg
+](https://textsql-analysis.streamlit.app/)](https://sql-noobs.streamlit.app/)
 
 Applications:
 
